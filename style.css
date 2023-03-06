@@ -1,0 +1,65 @@
+* {
+  margin: 0;
+}
+body {
+  background-color: rgb(240, 240, 240);
+  max-width: 300px;
+  margin: auto;
+}
+
+a {
+  color: blue;
+  text-decoration: none;
+  line-height: 1.5;
+}
+
+img {
+  max-width: 100%;
+}
+
+button {
+  border: 0;
+  width: 100%;
+}
+ul {
+  line-height: 2;
+  font-size: small;
+  color: rgb(100, 100, 100);
+}
+p {
+  text-align: center;
+  padding: 5px;
+}
+del {
+  font-size: small;
+  color: red;
+}
+
+.product {
+  border-radius: 10px;
+  margin-top: 10px;
+  box-shadow: 0px 10px 10px 0px lightgrey;
+  width: 100%;
+  padding: 10px;
+  background-color: white;
+}
+
+.img {
+  width: 20px;
+}
+
+.one {
+  padding: 5px;
+  color: white;
+  background-color: rgba(0, 110, 250, 100);
+}
+#laptop {
+  width: 100%;
+}
+#discount {
+  width: 85%;
+  border-radius: 0px 100px 100px 0px;
+  font-size: small;
+  background-color: rgb(100, 0, 140);
+  color: white;
+}
