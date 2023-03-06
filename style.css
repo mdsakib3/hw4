@@ -18,6 +18,7 @@ img {
 }
 
 button {
+  padding: 5px;
   border: 0;
   width: 100%;
 }
@@ -49,7 +50,6 @@ del {
 }
 
 .one {
-  padding: 5px;
   color: white;
   background-color: rgba(0, 110, 250, 100);
 }
